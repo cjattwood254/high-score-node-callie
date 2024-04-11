@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Jane Doe",
+    "state": "CA",
+    "score": 10000
+  },
+  {
+    "name": "John Smith",
+    "state": "NY",
+    "score": 9000
+  },
+  {
+    "name": "Demo User",
+    "state": "Minnesota",
+    "score": 1000
+  }
+]
