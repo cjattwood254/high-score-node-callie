@@ -18,8 +18,9 @@ Please note that while we are learning how to work with a JSON file in class, yo
 1. Clone the repository to your local machine:
 2. Navigate to the project directory
 3. Install the required npm packages: <code>npm install</code>
-4. Start the server: <code>node server.js</code>
-5. Open your browser and navigate to `http://localhost:3000` to view the application.
+4. Install Express, a minimal and flexible Node.js web application framework, by running: <code>npm install express body-parser</code>
+5. Create the web server and JavaScript needed
+6. Open your browser and navigate to `http://localhost:3000` to view the application.
 
 ## Usage
 - **Adding a High Score**: Enter your name, select your state, and enter your high score in the fields provided, then click the "Submit" button to add your score to the list
