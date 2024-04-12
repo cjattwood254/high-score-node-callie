@@ -1,0 +1,13 @@
+{
+  "name": "high-score-node-callie",
+  "version": "1.0.0",
+  "description": "## Overview The High Score Node Demo allows users to submit their high scores along with their name and state. This project is built using HTML, CSS, JavaScript for the frontend, and Node.js with Express for the backend, storing data in a JSON file.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
